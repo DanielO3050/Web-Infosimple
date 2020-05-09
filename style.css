@@ -1,0 +1,65 @@
+h1,h2
+{
+    color: black;   
+}
+.a1
+{
+    color: blue;
+    font-size: 1.3em;
+}
+body
+{
+    background-image: url("desayuno_saludable.png");
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    background-color: lightgray;
+    
+}
+p
+{
+    font-size: 1.8em;
+}
+h1
+{
+    font-size: 1.8em;
+    text-align: center;
+    margin-top: 3em;
+    margin-bottom: 2em;
+}
+
+header
+{
+    font-family: cursive;
+}
+nav
+{
+    font-size: 1.2em;
+    font-family: cursive;
+    margin-top: 3em;
+}
+section
+{
+    text-align: justify;
+    align-content: center;
+    
+}
+aside
+{
+    font-size: 0.7em;
+    color: brown;
+    font-family: cursive;
+    border: brown 3px solid;
+    border-radius: 1em;
+    position: absolute;
+    left: 730px;
+    bottom: 480px;
+    text-align: center; 
+}   
+
+footer
+{
+    text-align: center;
+    border: black 3px solid;
+    border-width: 0.5em;
+    border-radius: 1em;
+}
